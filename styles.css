@@ -10,3 +10,47 @@
     Version: 1.8
     License: GNU General Public License v2 or later                
 */
+:root {
+    --primary-color: #D53512;
+    --secondary-color: #688E26;
+    --third-color: #5B2333;
+    --fourth-color: #F39917;
+    --fifth-color: #F4FDD9;
+    --not-too-white: #DDDDDD;
+}
+.primary-color-font {
+    color: var(--primary-color);
+}
+.secondary-color-font {
+    color: var(--secondary-color);
+}
+.third-color-font {
+    color: var(--third-color);
+}
+.fourth-color-font {
+    color: var(--fourth-color);
+}
+.fifth-color-font {
+    color: var(--fifth-color);
+}
+.not-too-white-color-font {
+    color: var(--not-too-white);
+}
+.primary-color-background {
+    background-color: var(--primary-color);
+}
+.secondary-color-background {
+    background-color: var(--secondary-color);
+}
+.third-color-background {
+    background-color: var(--third-color);
+}
+.fourth-color-background {
+    background-color: var(--fourth-color);
+}
+.fifth-color-background {
+    background-color: var(--fifth-color);
+}
+.not-too-white-color-background {
+    background-color: var(--not-too-white);
+}
